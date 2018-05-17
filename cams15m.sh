@@ -1,4 +1,4 @@
-# a script to download hvo webcam images (10-minute refresh cameras)
+# a script to download hvo webcam images (15-minute refresh cameras)
 
 ## Mauna Loa
 # summit thermal
